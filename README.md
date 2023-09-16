@@ -1,1 +1,1 @@
-# Coffee Shop Excel Dashboard
+# Coffee Shop Sales Dashboard
